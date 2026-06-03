@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Building+Scalable+Cloud+Solutions;Tech+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Building+Scalable+Cloud+Solutions;Tech+Content+Creator" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Senior Software Engineer** with **6.9 years of experience** specializing in crafting robust frontend experiences and scalable, serverless backend architectures. Beyond the IDE, I love sharing my knowledge and insights with the developer community through content creation across YouTube, Medium, and Instagram.
+I am a passionate **Senior Software Engineer** with **6.9 years of experience** specializing in crafting robust frontend experiences and scalable, serverless backend architectures.
 
 * 💡 **What I do:** Turn complex business requirements into clean, maintainable, and high-performing code.
 * 🎥 **Content Creator:** Bridging the gap between complex tech concepts and actionable tutorials.
@@ -44,8 +44,9 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandeepManchala1&theme=onedark&column=7" alt="SandeepManchala1 Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SandeepManchala1&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -53,12 +54,13 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeepManchala1&show_icons=true&theme=tokyonight&count_private=true" alt="Sandeep's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepManchala1&layout=compact&theme=tokyonight" alt="Sandeep's Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeepManchala1&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepManchala1&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepManchala1&theme=tokyonight" alt="Sandeep's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SandeepManchala1&theme=tokyonight" />
 </p>
 
 ---
@@ -66,17 +68,20 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-manchala-781a00118" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sandeep-manchala-781a00118">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@SandeepManchala1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+
+  <a href="https://youtube.com/@SandeepManchala1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://medium.com/@SandeepManchala1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+
+  <a href="https://medium.com/@SandeepManchala1">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SandeepManchala1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://instagram.com/SandeepManchala1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
