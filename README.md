@@ -40,11 +40,6 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandeepManchala1&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
@@ -67,18 +62,6 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandeep-manchala-781a00118">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/@SandeepManchala1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-
-  <a href="https://medium.com/@SandeepManchala1">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/SandeepManchala1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
