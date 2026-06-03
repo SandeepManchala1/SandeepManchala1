@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/1-js/01-intro/hello.gif" width="30px"> Hi there, I'm Sandeep Manchala!
+# <img src="https://raw.githubusercontent.com/Martinator/Martinator/master/etc/wp.gif" width="30px"> Hi there, I'm Sandeep Manchala!
 
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=SandeepManchala1&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Sandeep Manchala" />
+  <img src="https://komarev.com/ghvc/?username=SandeepManchala1&label=Profile%20Views&color=0e76a8&style=flat-square" alt="SandeepManchala1" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
   <a href="https://www.linkedin.com/in/sandeep-manchala-781a00118" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://youtube.com/@SandeepManchala1" target="_blank">
+  <a href="https://youtube.com/@SandeepManchala1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://medium.com/@SandeepManchala1" target="_blank">
@@ -77,7 +77,7 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
   </a>
   <a href="https://instagram.com/SandeepManchala1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> -->
+  </a>
 </p>
 
 ---
