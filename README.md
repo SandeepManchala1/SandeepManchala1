@@ -1,8 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Martinator/Martinator/master/etc/wp.gif" width="30px"> Hi there, I'm Sandeep Manchala!
 
-<p align="left">
-  <img src="https://komarev.com/ghvc/?username=SandeepManchala1&label=Profile%20Views&color=0e76a8&style=flat-square" alt="SandeepManchala1" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Building+Scalable+Cloud+Solutions;Tech+Content+Creator" alt="Typing SVG" />
