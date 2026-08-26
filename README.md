@@ -69,8 +69,6 @@ I’m a **Senior Software Engineer** with **6.9 years of experience** in full-st
 
 ---
 
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,8 +78,6 @@ I’m a **Senior Software Engineer** with **6.9 years of experience** in full-st
     alt="GitHub Profile Summary"
   />
 </p>
-
----
 
 ---
 
