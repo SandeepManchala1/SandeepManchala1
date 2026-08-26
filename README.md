@@ -46,14 +46,6 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SandeepManchala1&theme=tokyonight&hide_border=true"
-    width="60%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandeepManchala1&theme=tokyonight"
     width="95%"
     alt="GitHub Profile Summary"
