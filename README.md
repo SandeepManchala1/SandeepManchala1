@@ -6,15 +6,20 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-I am a passionate **Senior Software Engineer** with **6.9 years of experience** specializing in crafting robust frontend experiences and scalable, serverless backend architectures.
+I’m a **Senior Software Engineer** with **6.9 years of experience** in full-stack development, specializing in building **scalable, high-performance enterprise applications and cloud-native solutions**.
 
-* 💡 **What I do:** Turn complex business requirements into clean, maintainable, and high-performing code.
-* 🎥 **Content Creator:** Bridging the gap between complex tech concepts and actionable tutorials.
-* ⚡ **Fun Fact:** I treat optimizing AWS Lambda cold starts like a competitive sport.
-* 🛠️ **Philosophy:** Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+💡 **Full Stack Development:** Experienced in building responsive frontend applications with **Angular, TypeScript, JavaScript, HTML, and CSS**, along with scalable backend services using **Node.js and REST APIs**.
+
+☁️ **Cloud & Architecture:** Hands-on experience designing and implementing **AWS cloud-native architectures** using Lambda, API Gateway, S3, DynamoDB, CloudWatch, Step Functions, IAM, Cognito, Secrets Manager, and AWS CDK.
+🏗️ **Enterprise Engineering:** Skilled in **microservices architecture, RESTful API development, PostgreSQL, DynamoDB, CI/CD pipelines, Git, performance optimization, and secure application development**.
+
+🤖 **AI & Automation:** Experienced in developing **Python-based modules for object detection, vehicle detection, data extraction, and intelligent automation workflows**.
+
+🚀 **End-to-End Delivery:** Experienced across the complete software lifecycle — from **requirements analysis and UI development to API development, cloud deployment, testing, production support, monitoring, and optimization**.
+
+🎯 **Engineering Focus:** Building **secure, maintainable, scalable, and performance-focused solutions** that solve real-world business problems.
 
 ---
 
