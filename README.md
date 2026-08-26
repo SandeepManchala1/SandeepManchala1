@@ -54,7 +54,6 @@ I am a passionate **Senior Software Engineer** with **6.9 years of experience** 
 ### 🤖 AI, Python & Automation
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### 🔧 DevOps & Development
